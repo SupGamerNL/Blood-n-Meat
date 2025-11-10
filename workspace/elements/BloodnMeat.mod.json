@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "tab",
+  "definition": {
+    "name": "Blood 'n Meat",
+    "icon": {
+      "value": "CUSTOM:ColaguatedBlood"
+    },
+    "showSearch": false
+  }
+}
