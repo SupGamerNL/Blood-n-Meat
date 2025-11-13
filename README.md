@@ -1,68 +1,72 @@
 # 🩸 Blood 'n Meat
 ### *Raw. Bloody. Survival intensified.*
 
-![Banner](assets/images/example3.png)
+```![Banner](assets/images/example3.png)```
 
 ---
 
 ## 🧬 Overview
-**Blood 'n Meat** (also known as *Blood 'n Flesh*) is a **hybrid semi-technology/magic Minecraft mod** where players harvest the essence of life and death — *blood and flesh* — to advance into a world of dark alchemy, techno-organic machines, and corruption.
+**Blood 'n Meat** is a **hybrid semi-technology/magic Minecraft mod** currently in very early development. It explores the fusion of **blood, flesh, and machinery**, allowing players to interact with dark alchemy, techno-organic machines, and corruption mechanics.
 
-You can follow the path of the **Living Flesh**, the **Undead Flesh**, or **merge both** to master the forbidden art of **blood-powered techno-magic**.
-
----
-
-## ⚙️ Core Features
-
-- 💉 **Blood Extraction System** – Obtain *Blood Droplets* from both living and undead mobs.
-- 🧠 **Dual Path Progression** – Choose between *Living Flesh* and *Undead Flesh* routes or combine them.
-- 🧪 **Bloodflow Energy System** – A unique organic-mechanical energy that powers machines, rituals, and devices.
-- 🦴 **Corruption Mechanics** – Transform your body and world as your blood infuses everything around you.
-- ⚙️ **Techno-Magic Crafting** – Fuse organic matter with metal to forge weapons, armor, and steampunk machinery.
-- 🌋 **Bloodrealm Dimension** – Enter a corrupted biome of blood rivers, flesh structures, and mechanical horrors.
-- 🍖 **Advanced Cooking** – Craft meals from basic meats to mind-enhancing and magical-infused dishes.
-- 🔮 **Steampunk Abilities** – Unlock higher brain functions to wield hybrid mechanical-magic powers.
+Players can follow the path of **Living Flesh**, **Undead Flesh**, or merge both to master the forbidden art of **blood-powered techno-magic**.
 
 ---
 
-## 🩸 Progression Stages
+## ⚙️ Development Status
+**Blood 'n Meat** is in a <em>very early stage</em>. Most planned mechanics and systems are still conceptual, in testing, or design phases.  
+Development starts with fundamental resources and item materials, which will expand into:
 
-1. **Survival & Extraction** – Harvest blood using primitive tools.  
-2. **Flesh Processing** – Use early machines such as the *Coagulator* and *Blood Extractor*.  
-3. **Blood Tech Expansion** – Automate your biofactory with *Bloodflow Conduits*.  
-4. **Corruption Evolution** – Create armor and items infused with your own corrupted essence.  
-5. **Dimensional Access** – Discover gateways into *The Bloodrealm*.  
-6. **Ascension** – Merge flesh, metal, and blood into your final techno-organic form.
+- **Techno-magic systems**  
+- **Corruption mechanics**  
+- **Bloodrealm dimension**
+
+> **Current state:** Alpha Pre-Content Build (v0.0.1)  
+> **Planned progression:** Alpha → Beta → Early Access → Full Release
 
 ---
 
-## 🧩 Planned Additions (Roadmap)
-- Blood-powered automation and conduits  
-- Techno-flesh creatures and biomechanical bosses  
-- Mutating armor sets and blood-organ upgrades  
-- Expanded Bloodrealm biomes and lore  
-- Integration with **JEI**, **Curios**, and **Patchouli**
+## 🩸 Current Content (v0.0.1)
+The foundational items introduced so far form the base materials for future systems and crafting recipes:
+
+- **Coagulated Blood** – hardened organic blood mass used in early alchemy and crafting.  
+- **Blood Droplet** – a core essence item dropped from living or undead entities.  
+- **Blood-Splattered Iron Ingot** – iron infused with blood essence for techno-flesh crafting.  
+- **Blood Ingot** – refined metallic-blood hybrid material for machinery and armor.
+
+> *Note: These items currently have no functional mechanics but will serve as building blocks for upcoming features.*
+
+---
+
+## 🧬 Planned Features & Roadmap
+Core mechanics and systems planned for future versions:
+
+- **Bloodflow Energy System** – hybrid organic-mechanical energy powering rituals and machinery.  
+- **Corruption Progression** – evolve player abilities and mutations at the cost of sanity and control.  
+- **Techno-Flesh Crafting** – combine biological materials with metal for biomechanical items.  
+- **Flesh & Blood Pathways** – unique player progression trees: Flesh (life) or Blood (undeath).  
+- **Bloodrealm Dimension** – an organic, pulsating world of blood rivers, living machinery, and horrors.  
+- **Integration Support** – compatibility with JEI, Curios, Patchouli, and other popular mods.
+
+> *These concepts are subject to change as development continues.*
+
+---
+
+## 🔗 Links & Resources
+- [GitHub Repository](https://github.com/SupGamerNL/Blood-n-Meat) – official source code and dev updates  
+- [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/blood-n-meat) – downloads and changelogs  
+- [Modrinth Page](https://modrinth.com/mod/blood-n-meat) – alternate release platform  
+- [Developer Profile – SupGamer NL](https://github.com/SupGamerNL)
 
 ---
 
 ## 🧠 Technical Information
 
-| Component | Version |
-|------------|----------|
-| **Minecraft** | 1.21.1 |
-| **Modloader** | NeoForge |
-| **Built With** | MCreator 2024.4 |
-| **Status** | Work-In-Progress *(Alpha)* |
-
----
-
-## 📦 Downloads
-
-| Platform | Link |
-|-----------|------|
-| 🧱 **CurseForge** | [View Mod](https://curseforge.com/minecraft/mc-mods/blood-n-meat) |
-| 🧬 **Modrinth** | [View Mod](https://modrinth.com/mod/blood-n-meat) |
-| 🌐 **Official Website** | [Blood 'n Meat GitHub Page](https://supgamernl.github.io/Blood-n-Meat/) |
+| Component      | Version                 |
+|----------------|-------------------------|
+| **Minecraft**  | 1.21.1, 1.21.8          |
+| **Modloader**  | NeoForge                |
+| **Built With** | MCreator 2024.4         |
+| **Status**     | Work-In-Progress (Alpha)|
 
 ---
 
@@ -70,34 +74,24 @@ You can follow the path of the **Living Flesh**, the **Undead Flesh**, or **merg
 
 |  |  |
 |--|--|
-| ![Blood Extractor](assets/images/example1.png) | ![Corrupted Blood Blocks](assets/images/example2.png) |
-
----
-
-## 🧠 Lore Snippet
-> “The flesh remembers. The blood flows.  
-> In every drop lies creation, corruption, and rebirth.”  
-> — *Codex Sanguinis, Chapter I*
+| ```![Blood Extractor](assets/images/example1.png)``` | ```![Corrupted Blood Blocks](assets/images/example2.png)``` |
 
 ---
 
 ## 🧰 Contributing
-
-This project is currently **in early development**.  
-Feedback, suggestions, and pull requests are welcome as the mod’s systems evolve.
-
-If you wish to contribute ideas, textures, or balance feedback, open an **Issue** or discuss it in the **Discussions** tab.
+This project is **in early development**. Feedback, suggestions, and pull requests are welcome.  
+Contribute ideas, textures, or balance feedback by opening an **Issue** or discussing in the **Discussions** tab.
 
 ---
 
 ## 🧾 License
-This project is licensed under the **MIT License** — you are free to use, modify, and include this mod in modpacks, as long as proper credit is given.
+This project is licensed under the **MIT License** — free to use, modify, or include in modpacks with proper credit.
 
 ---
 
 ## 🧑‍💻 Author
 **Developed by [SupGamer NL](https://github.com/SupGamerNL)**  
-Part of an ongoing effort to blend *dark fantasy* with *mechanical innovation* in Minecraft.
+Blending *dark fantasy* with *mechanical innovation* in Minecraft.
 
 ---
 
