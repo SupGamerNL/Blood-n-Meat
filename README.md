@@ -1,7 +1,7 @@
 # 🩸 Blood 'n Meat
 ### *Raw. Bloody. Survival intensified.*
 
-```![Banner](assets/images/example3.png)```
+![Banner](assets/images/banner.png)
 
 ---
 
