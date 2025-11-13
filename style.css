@@ -173,13 +173,13 @@ footer .status-note {
   font-style: italic;
 }
 
-/* ===== Blood Drip Animation (Responsive) ===== */
+/* ===== Blood Drip Animation (Responsive + Layer Fix) ===== */
 .drip-container {
   position: fixed;
   inset: 0;
   pointer-events: none;
   overflow: hidden;
-  z-index: 0;
+  z-index: -1; /* ensures it's behind all content */
 }
 
 .drip {
@@ -189,8 +189,11 @@ footer .status-note {
   opacity: 0.9;
   animation: bloodDrip linear forwards;
   will-change: transform, opacity;
+  mix-blend-mode: multiply; /* subtle blending with dark background */
+  filter: blur(0.2px);
 }
 
+/* Animation keyframes */
 @keyframes bloodDrip {
   0% {
     transform: translateY(0);
@@ -206,16 +209,23 @@ footer .status-note {
 }
 
 /* Responsive tuning for various devices */
+@media (max-width: 1024px) {
+  .drip {
+    opacity: 0.85;
+    animation-duration: 3s !important;
+  }
+}
+
 @media (max-width: 768px) {
   .drip {
     opacity: 0.8;
-    animation-duration: 3s !important;
+    animation-duration: 3.2s !important;
   }
 }
 
 @media (max-width: 480px) {
   .drip {
     opacity: 0.75;
-    animation-duration: 3.5s !important;
+    animation-duration: 3.6s !important;
   }
 }
