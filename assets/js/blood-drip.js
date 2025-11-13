@@ -2,6 +2,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const dripContainer = document.createElement("div");
   dripContainer.classList.add("drip-container");
+  dripContainer.style.zIndex = "-1";
   document.body.appendChild(dripContainer);
 
   // Helper: create a new blood drip
