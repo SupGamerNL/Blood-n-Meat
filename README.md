@@ -63,9 +63,10 @@ Core mechanics and systems planned for future versions:
 
 | Component      | Version                 |
 |----------------|-------------------------|
-| **Minecraft**  | 1.21.1, 1.21.8          |
+| **Minecraft**  | 1.21.8                  |
 | **Modloader**  | NeoForge                |
-| **Built With** | MCreator 2024.4         |
+| **Version**    | 21.8.31                 |
+| **Built With** | MCreator 2025.3         |
 | **Status**     | Work-In-Progress (Alpha)|
 
 ---
@@ -74,7 +75,7 @@ Core mechanics and systems planned for future versions:
 
 |  |  |
 |--|--|
-| ```![Blood Extractor](assets/images/example1.png)``` | ```![Corrupted Blood Blocks](assets/images/example2.png)``` |
+|  |  |
 
 ---
 
