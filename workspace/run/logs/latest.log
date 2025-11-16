@@ -1,125 +1,116 @@
-[16Nov2025 14:05:25.708] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, neoforgeclientdev, --version, 21.8.31, --assetIndex, 26, --assetsDir, C:\\Users\\Jelle\\.mcreator\\gradle\\caches\\neoformruntime\\assets, --fml.fmlVersion, 9.0.16, --fml.mcVersion, 1.21.8, --fml.neoForgeVersion, 21.8.31, --fml.neoFormVersion, 20250717.133445]
-[16Nov2025 14:05:25.710] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.8+9-LTS
-[16Nov2025 14:05:25.711] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0 starting: java version 21.0.8 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
-[16Nov2025 14:05:25.798] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
-[16Nov2025 14:05:26.141] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/Jelle/.mcreator/gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar%23157!/ Service=ModLauncher Env=CLIENT
-[16Nov2025 14:05:26.309] [fml-loadingscreen/INFO] [net.neoforged.fml.earlydisplay.render.LoadingScreenRenderer/]: GL info: AMD Radeon RX 6700 XT GL version 3.2.0 Core Profile Context 25.11.1.251104, ATI Technologies Inc.
-[16Nov2025 14:05:26.475] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[16Nov2025 14:05:26.476] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+[16Nov2025 14:20:47.141] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, neoforgeclientdev, --version, 21.8.31, --assetIndex, 26, --assetsDir, C:\\Users\\Jelle\\.mcreator\\gradle\\caches\\neoformruntime\\assets, --fml.fmlVersion, 9.0.16, --fml.mcVersion, 1.21.8, --fml.neoForgeVersion, 21.8.31, --fml.neoFormVersion, 20250717.133445]
+[16Nov2025 14:20:47.143] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.8+9-LTS
+[16Nov2025 14:20:47.144] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0 starting: java version 21.0.8 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[16Nov2025 14:20:47.253] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[16Nov2025 14:20:47.588] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/C:/Users/Jelle/.mcreator/gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/2af2f021d8e02a0220dc27a7a72b4666d66d44ca/sponge-mixin-0.15.2+mixin.0.8.7.jar%23157!/ Service=ModLauncher Env=CLIENT
+[16Nov2025 14:20:47.788] [fml-loadingscreen/INFO] [net.neoforged.fml.earlydisplay.render.LoadingScreenRenderer/]: GL info: AMD Radeon RX 6700 XT GL version 3.2.0 Core Profile Context 25.11.1.251104, ATI Technologies Inc.
+[16Nov2025 14:20:47.907] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[16Nov2025 14:20:47.910] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
      Mod List:
 		Name Version (Mod Id)
 
 		Blood 'n Meat 1.0.0 (bnm)
 		Minecraft 1.21.8 (minecraft)
 		NeoForge 21.8.31 (neoforge)
-[16Nov2025 14:05:27.178] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'neoforgeclientdev' with arguments [--version, 21.8.31, --assetsDir, C:\Users\Jelle\.mcreator\gradle\caches\neoformruntime\assets, --assetIndex, 26]
-[16Nov2025 14:05:29.254] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 272 Datafixer optimizations took 525 milliseconds
-[16Nov2025 14:05:29.439] [main/WARN] [oshi.driver.windows.perfmon.PerfmonDisabled/]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[16Nov2025 14:05:29.470] [pool-6-thread-1/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[16Nov2025 14:05:34.318] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16Nov2025 14:05:34.319] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16Nov2025 14:05:34.321] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16Nov2025 14:05:34.321] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16Nov2025 14:05:34.322] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16Nov2025 14:05:34.324] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [waypoint, modify, waypoint, color, reset] and [waypoint, modify, waypoint, color, color] with inputs: [reset]
-[16Nov2025 14:05:34.386] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.8.31, for MC 1.21.8
-[16Nov2025 14:05:34.821] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Jelle/Documents/GitHub/Blood-n-Meat/workspace/build/moddev/artifacts/neoforge-21.8.31.jar%23212!/assets/.mcassetsroot' uses unexpected schema
-[16Nov2025 14:05:34.823] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Jelle/Documents/GitHub/Blood-n-Meat/workspace/build/moddev/artifacts/neoforge-21.8.31.jar%23212!/data/.mcassetsroot' uses unexpected schema
-[16Nov2025 14:05:34.867] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16Nov2025 14:05:34.877] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
-[16Nov2025 14:05:35.016] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
-[16Nov2025 14:05:35.151] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
-[16Nov2025 14:05:35.730] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources, mod/neoforge, mod/bnm
-[16Nov2025 14:05:35.871] [resourceLoad/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-16.0.03.hex, loading
-[16Nov2025 14:05:35.871] [resourceLoad/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_pua-16.0.03.hex, loading
-[16Nov2025 14:05:36.000] [resourceLoad/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-16.0.03.hex, loading
-[16Nov2025 14:05:37.653] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Headphones (MOTO XT220)
-[16Nov2025 14:05:37.654] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
-[16Nov2025 14:05:37.729] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x2 minecraft:textures/atlas/blocks.png-atlas
-[16Nov2025 14:05:37.736] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x2 minecraft:textures/atlas/signs.png-atlas
-[16Nov2025 14:05:37.737] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x2 minecraft:textures/atlas/shield_patterns.png-atlas
-[16Nov2025 14:05:37.737] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x2 minecraft:textures/atlas/banner_patterns.png-atlas
-[16Nov2025 14:05:37.737] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x2 minecraft:textures/atlas/armor_trims.png-atlas
-[16Nov2025 14:05:37.740] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x2 minecraft:textures/atlas/chest.png-atlas
-[16Nov2025 14:05:37.740] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x2 minecraft:textures/atlas/decorated_pot.png-atlas
-[16Nov2025 14:05:37.740] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x2 minecraft:textures/atlas/beds.png-atlas
-[16Nov2025 14:05:37.741] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x2 minecraft:textures/atlas/shulker_boxes.png-atlas
-[16Nov2025 14:05:37.743] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[16Nov2025 14:05:37.878] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[16Nov2025 14:05:37.878] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[16Nov2025 14:05:37.878] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[16Nov2025 14:05:37.883] [Render thread/INFO] [net.neoforged.neoforge.client.entity.animation.json.AnimationLoader/]: Loaded 0 entity animations
-[16Nov2025 14:06:20.123] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Headphones (MOTO XT220)
-[16Nov2025 14:06:20.123] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
-[16Nov2025 14:06:28.281] [Render thread/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack tests
-[16Nov2025 14:06:29.338] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1411 recipes
-[16Nov2025 14:06:29.353] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1520 advancements
-[16Nov2025 14:06:29.357] [Render thread/INFO] [net.neoforged.neoforge.common.crafting.RecipePriorityManager/]: Loaded 0 recipe priority overrides
-[16Nov2025 14:06:43.486] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.8
-[16Nov2025 14:06:43.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Nov2025 14:06:45.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Nov2025 14:06:45.567] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[16Nov2025 14:06:46.043] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[16Nov2025 14:06:46.532] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[16Nov2025 14:06:47.040] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[16Nov2025 14:06:47.327] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
-[16Nov2025 14:06:47.332] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 1805 ms
-[16Nov2025 14:06:47.373] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 16, from 10
-[16Nov2025 14:06:47.374] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 16, from 0
-[16Nov2025 14:06:48.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:b0ab0004] logged in with entity id 31 at (-2.5, 64.0, -2.5)
-[16Nov2025 14:06:48.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
-[16Nov2025 14:06:48.357] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2 advancements
-[16Nov2025 14:06:48.542] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
-[16Nov2025 14:06:48.586] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
-[16Nov2025 14:06:48.720] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
-[16Nov2025 14:06:48.753] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 16 reached during a single frame. New capacity will be 32.
-[16Nov2025 14:06:48.869] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 32 reached during a single frame. New capacity will be 64.
-[16Nov2025 14:06:49.003] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 64 reached during a single frame. New capacity will be 128.
-[16Nov2025 14:06:50.918] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 128 reached during a single frame. New capacity will be 256.
-[16Nov2025 14:06:53.412] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 256 reached during a single frame. New capacity will be 512.
-[16Nov2025 14:06:57.505] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 512 reached during a single frame. New capacity will be 1024.
-[16Nov2025 14:07:03.582] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 1024 reached during a single frame. New capacity will be 2048.
-[16Nov2025 14:07:11.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Survival Mode]
-[16Nov2025 14:07:11.687] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Survival Mode
-[16Nov2025 14:07:17.005] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 40 advancements
-[16Nov2025 14:07:24.345] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 47 advancements
-[16Nov2025 14:07:38.592] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 48 advancements
-[16Nov2025 14:07:38.848] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 51 advancements
-[16Nov2025 14:07:54.153] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Unknown game mode: creativew
-[16Nov2025 14:07:54.154] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] ... creativew<--[HERE]
-[16Nov2025 14:07:56.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
-[16Nov2025 14:07:56.697] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
-[16Nov2025 14:07:58.024] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 2048 reached during a single frame. New capacity will be 4096.
-[16Nov2025 14:07:59.091] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 51 advancements
-[16Nov2025 14:09:02.240] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 54 advancements
-[16Nov2025 14:09:07.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Acquire Hardware]
-[16Nov2025 14:09:07.514] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Acquire Hardware]
-[16Nov2025 14:09:07.541] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 86 advancements
-[16Nov2025 14:09:33.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Survival Mode]
-[16Nov2025 14:09:33.013] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Survival Mode
-[16Nov2025 14:11:08.091] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 93 advancements
-[16Nov2025 14:11:12.591] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 97 advancements
-[16Nov2025 14:11:20.141] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 100 advancements
-[16Nov2025 14:11:29.191] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 103 advancements
-[16Nov2025 14:11:41.089] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 103 advancements
-[16Nov2025 14:11:55.093] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 103 advancements
-[16Nov2025 14:12:00.391] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 106 advancements
-[16Nov2025 14:12:12.951] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 109 advancements
-[16Nov2025 14:16:15.031] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
-[16Nov2025 14:16:15.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:overworld
-[16Nov2025 14:16:15.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:the_end
-[16Nov2025 14:16:15.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:the_nether
-[16Nov2025 14:16:16.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
-[16Nov2025 14:16:16.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
-[16Nov2025 14:16:16.550] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
-[16Nov2025 14:16:16.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[16Nov2025 14:16:16.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[16Nov2025 14:16:16.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[16Nov2025 14:16:17.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:overworld
-[16Nov2025 14:16:17.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:the_end
-[16Nov2025 14:16:17.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:the_nether
-[16Nov2025 14:16:17.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Test World #1): All chunks are saved
-[16Nov2025 14:16:17.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16Nov2025 14:16:17.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16Nov2025 14:16:17.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[16Nov2025 14:16:18.064] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[16Nov2025 14:20:48.605] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'neoforgeclientdev' with arguments [--version, 21.8.31, --assetsDir, C:\Users\Jelle\.mcreator\gradle\caches\neoformruntime\assets, --assetIndex, 26]
+[16Nov2025 14:20:50.331] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 272 Datafixer optimizations took 427 milliseconds
+[16Nov2025 14:20:50.518] [main/WARN] [oshi.driver.windows.perfmon.PerfmonDisabled/]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[16Nov2025 14:20:50.577] [pool-6-thread-1/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[16Nov2025 14:20:55.101] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Nov2025 14:20:55.103] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Nov2025 14:20:55.105] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16Nov2025 14:20:55.106] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16Nov2025 14:20:55.107] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16Nov2025 14:20:55.108] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [waypoint, modify, waypoint, color, reset] and [waypoint, modify, waypoint, color, color] with inputs: [reset]
+[16Nov2025 14:20:55.167] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.8.31, for MC 1.21.8
+[16Nov2025 14:20:55.576] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Jelle/Documents/GitHub/Blood-n-Meat/workspace/build/moddev/artifacts/neoforge-21.8.31.jar%23212!/assets/.mcassetsroot' uses unexpected schema
+[16Nov2025 14:20:55.577] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Jelle/Documents/GitHub/Blood-n-Meat/workspace/build/moddev/artifacts/neoforge-21.8.31.jar%23212!/data/.mcassetsroot' uses unexpected schema
+[16Nov2025 14:20:55.629] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16Nov2025 14:20:55.638] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[16Nov2025 14:20:55.747] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[16Nov2025 14:20:55.879] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
+[16Nov2025 14:20:56.451] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources, mod/neoforge, mod/bnm
+[16Nov2025 14:20:56.606] [resourceLoad/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-16.0.03.hex, loading
+[16Nov2025 14:20:56.606] [resourceLoad/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_pua-16.0.03.hex, loading
+[16Nov2025 14:20:56.724] [resourceLoad/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-16.0.03.hex, loading
+[16Nov2025 14:20:57.798] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Headphones (MOTO XT220)
+[16Nov2025 14:20:57.800] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[16Nov2025 14:20:57.881] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x2 minecraft:textures/atlas/blocks.png-atlas
+[16Nov2025 14:20:57.889] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x2 minecraft:textures/atlas/signs.png-atlas
+[16Nov2025 14:20:57.889] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x2 minecraft:textures/atlas/shield_patterns.png-atlas
+[16Nov2025 14:20:57.890] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x2 minecraft:textures/atlas/banner_patterns.png-atlas
+[16Nov2025 14:20:57.890] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x2 minecraft:textures/atlas/armor_trims.png-atlas
+[16Nov2025 14:20:57.895] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x2 minecraft:textures/atlas/chest.png-atlas
+[16Nov2025 14:20:57.896] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x2 minecraft:textures/atlas/decorated_pot.png-atlas
+[16Nov2025 14:20:57.896] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x2 minecraft:textures/atlas/beds.png-atlas
+[16Nov2025 14:20:57.896] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x2 minecraft:textures/atlas/shulker_boxes.png-atlas
+[16Nov2025 14:20:57.898] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[16Nov2025 14:20:58.022] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[16Nov2025 14:20:58.023] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[16Nov2025 14:20:58.023] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[16Nov2025 14:20:58.027] [Render thread/INFO] [net.neoforged.neoforge.client.entity.animation.json.AnimationLoader/]: Loaded 0 entity animations
+[16Nov2025 14:21:03.328] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1411 recipes
+[16Nov2025 14:21:03.340] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1520 advancements
+[16Nov2025 14:21:03.342] [Render thread/INFO] [net.neoforged.neoforge.common.crafting.RecipePriorityManager/]: Loaded 0 recipe priority overrides
+[16Nov2025 14:21:03.488] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.8
+[16Nov2025 14:21:03.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Nov2025 14:21:03.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Nov2025 14:21:04.352] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Nov2025 14:21:04.374] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Nov2025 14:21:04.482] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[16Nov2025 14:21:04.500] [progressListener/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 637 ms
+[16Nov2025 14:21:04.547] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 16, from 10
+[16Nov2025 14:21:04.547] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 16, from 0
+[16Nov2025 14:21:05.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:bef1dc64] logged in with entity id 59 at (-11.64664429942633, 64.0, 3.1355786679338915)
+[16Nov2025 14:21:05.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[16Nov2025 14:21:05.615] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 109 advancements
+[16Nov2025 14:21:05.776] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 2 reached during a single frame. New capacity will be 4.
+[16Nov2025 14:21:05.826] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 4 reached during a single frame. New capacity will be 8.
+[16Nov2025 14:21:06.061] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 8 reached during a single frame. New capacity will be 16.
+[16Nov2025 14:21:06.247] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 16 reached during a single frame. New capacity will be 32.
+[16Nov2025 14:21:06.539] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 32 reached during a single frame. New capacity will be 64.
+[16Nov2025 14:21:06.782] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 64 reached during a single frame. New capacity will be 128.
+[16Nov2025 14:21:06.850] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 128 reached during a single frame. New capacity will be 256.
+[16Nov2025 14:21:07.090] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 256 reached during a single frame. New capacity will be 512.
+[16Nov2025 14:21:07.887] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 512 reached during a single frame. New capacity will be 1024.
+[16Nov2025 14:21:24.312] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Unknown or incomplete command, see below for error
+[16Nov2025 14:21:24.315] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] gamemode<--[HERE]
+[16Nov2025 14:21:28.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[16Nov2025 14:21:28.240] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[16Nov2025 14:21:39.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Gamerule doDaylightCycle is now set to: false]
+[16Nov2025 14:21:39.846] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Gamerule doDaylightCycle is now set to: false
+[16Nov2025 14:21:46.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set the time to 1000]
+[16Nov2025 14:21:46.419] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set the time to 1000
+[16Nov2025 14:21:52.797] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 111 advancements
+[16Nov2025 14:21:56.096] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 113 advancements
+[16Nov2025 14:22:11.247] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 124 advancements
+[16Nov2025 14:22:20.145] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 125 advancements
+[16Nov2025 14:22:21.813] [Render thread/INFO] [net.minecraft.client.renderer.DynamicUniformStorage/]: Resizing Dynamic Transforms UBO, capacity limit of 1024 reached during a single frame. New capacity will be 2048.
+[16Nov2025 14:22:40.246] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 126 advancements
+[16Nov2025 14:24:29.854] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Saved screenshot as 2025-11-16_14.24.29.png
+[16Nov2025 14:24:39.084] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Saved screenshot as 2025-11-16_14.24.38.png
+[16Nov2025 14:25:01.108] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Saved screenshot as 2025-11-16_14.25.01.png
+[16Nov2025 14:25:35.856] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Saved screenshot as 2025-11-16_14.25.35.png
+[16Nov2025 14:25:38.487] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[16Nov2025 14:25:38.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:overworld
+[16Nov2025 14:25:38.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:the_end
+[16Nov2025 14:25:38.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:the_nether
+[16Nov2025 14:25:45.078] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Saved screenshot as 2025-11-16_14.25.44.png
+[16Nov2025 14:36:53.485] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[16Nov2025 14:36:53.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:overworld
+[16Nov2025 14:36:53.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:the_end
+[16Nov2025 14:36:53.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:the_nether
+[16Nov2025 14:36:54.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[16Nov2025 14:36:54.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[16Nov2025 14:36:54.054] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[16Nov2025 14:36:54.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Nov2025 14:36:54.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Nov2025 14:36:54.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Nov2025 14:36:54.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:overworld
+[16Nov2025 14:36:54.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:the_end
+[16Nov2025 14:36:54.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Test World #1]'/minecraft:the_nether
+[16Nov2025 14:36:54.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Test World #1): All chunks are saved
+[16Nov2025 14:36:54.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Nov2025 14:36:54.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Nov2025 14:36:54.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Nov2025 14:36:55.291] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

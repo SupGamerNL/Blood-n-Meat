@@ -2,3 +2,7 @@
 /gamemode creativew
 /gamemode creative
 /gamemode survival
+/gamemode
+/gamemode creative
+/gamerule doDaylightCycle false
+/time set day

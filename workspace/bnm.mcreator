@@ -261,16 +261,18 @@
   "workspaceSettings": {
     "modid": "bnm",
     "modName": "Blood \u0027n Meat",
-    "version": "1.0.0",
-    "author": "MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Not specified",
+    "version": "0.0.1",
+    "description": "Blood \u0027n Meat adds new raw and cooked meats, coagulated blood, unique crafting recipes, and survival mechanics that give Minecraft a darker, visceral feel.",
+    "author": "SupGamerNL",
+    "websiteURL": "https://supgamernl.github.io/Blood-n-Meat/",
+    "license": "MIT License",
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "neoforge-1.21.8",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.supgamernl.bnm"
   },
   "mcreatorVersion": 202500345720
