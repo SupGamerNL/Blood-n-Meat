@@ -65,6 +65,7 @@ Core mechanics and systems planned for future versions:
 |----------------|-------------------------|
 | **Minecraft**  | 1.21.8                  |
 | **Modloader**  | NeoForge                |
+| **Version**    | 21.8.31                 |
 | **Built With** | MCreator 2025.3         |
 | **Status**     | Work-In-Progress (Alpha)|
 
