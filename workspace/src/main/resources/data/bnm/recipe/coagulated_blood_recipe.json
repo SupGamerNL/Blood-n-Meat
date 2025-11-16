@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "coagulated_blood",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "bnm:blood_droplet"
+  },
+  "result": {
+    "id": "bnm:coagulated_blood",
+    "count": 2
+  }
+}

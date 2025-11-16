@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "coagulated_blood",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BloodDroplet"
+      },
+      {
+        "value": "CUSTOM:BloodDroplet"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BloodDroplet"
+      },
+      {
+        "value": "CUSTOM:BloodDroplet"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CoagulatedBlood"
+    },
+    "name": "coagulated_blood_recipe",
+    "namespace": "mod"
+  }
+}

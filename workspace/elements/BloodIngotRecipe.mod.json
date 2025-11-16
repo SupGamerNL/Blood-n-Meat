@@ -1,0 +1,23 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "recipeRetstackSize": 1,
+    "group": "blood_ingot",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 900,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "CUSTOM:BloodSplatteredIronIngot"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:BloodIngot"
+    },
+    "name": "blood_ingot_recipe",
+    "namespace": "mod"
+  }
+}

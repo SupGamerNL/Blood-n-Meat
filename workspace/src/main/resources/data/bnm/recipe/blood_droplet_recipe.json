@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "blood_droplet",
+  "category": "misc",
+  "ingredients": [
+    "bnm:coagulated_blood"
+  ],
+  "result": {
+    "id": "bnm:blood_droplet",
+    "count": 2
+  }
+}

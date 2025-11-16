@@ -16,9 +16,10 @@ import net.minecraft.core.registries.Registries;
 public class BnmModTabs {
 	public static final DeferredRegister<CreativeModeTab> REGISTRY = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, BnmMod.MODID);
 	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> BLOODN_MEAT = REGISTRY.register("bloodn_meat",
-			() -> CreativeModeTab.builder().title(Component.translatable("item_group.bnm.bloodn_meat")).icon(() -> new ItemStack(BnmModItems.COLAGUATED_BLOOD.get())).displayItems((parameters, tabData) -> {
-				tabData.accept(BnmModItems.COLAGUATED_BLOOD.get());
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.bnm.bloodn_meat")).icon(() -> new ItemStack(BnmModItems.COAGULATED_BLOOD.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(BnmModItems.BLOOD_DROPLET.get());
+				tabData.accept(BnmModItems.COAGULATED_BLOOD.get());
+				tabData.accept(BnmModItems.BLOOD_SPLATTERED_IRON_INGOT.get());
 				tabData.accept(BnmModItems.BLOOD_INGOT.get());
 			}).build());
 }

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "group": "blood_ingot",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 900,
+  "ingredient": "bnm:blood_splattered_iron_ingot",
+  "result": {
+    "id": "bnm:blood_ingot"
+  }
+}

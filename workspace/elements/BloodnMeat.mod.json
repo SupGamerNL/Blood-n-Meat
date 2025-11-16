@@ -4,7 +4,7 @@
   "definition": {
     "name": "Blood 'n Meat",
     "icon": {
-      "value": "CUSTOM:ColaguatedBlood"
+      "value": "CUSTOM:CoagulatedBlood"
     },
     "showSearch": false
   }

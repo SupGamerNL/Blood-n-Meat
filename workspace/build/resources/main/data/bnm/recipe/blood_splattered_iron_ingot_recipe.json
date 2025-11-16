@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "blood_splattered_iron_ingot",
+  "category": "misc",
+  "ingredients": [
+    "bnm:coagulated_blood",
+    "minecraft:iron_ingot"
+  ],
+  "result": {
+    "id": "bnm:blood_splattered_iron_ingot",
+    "count": 1
+  }
+}
